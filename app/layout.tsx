@@ -10,11 +10,11 @@ import { Banner } from 'fumadocs-ui/components/banner';
 
 export const metadata: Metadata = createMetadata({
   title: {
-    template: '%s | KarChunT',
-    default: 'KarChunT',
+    template: '%s | Mas Dar',
+    default: 'Masdar',
   },
-  description: "KarChunT's personal website",
-  metadataBase: new URL('https://karchunt.com'),
+  description: "Mas Dar's personal website",
+  metadataBase: new URL('https://sudar.web.id'),
 });
 
 const jetbrainsMono = JetBrains_Mono({
