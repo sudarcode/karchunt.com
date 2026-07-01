@@ -6,14 +6,14 @@ import { BiCube } from 'react-icons/bi';
 import { SiKubernetes, SiAnsible } from 'react-icons/si';
 import { FaLinux } from 'react-icons/fa6';
 
-export const APP_NAME: string = 'KarChunT';
+export const APP_NAME: string = 'Mas Dar';
 export const APP_ICON: string = '/penguin-nobg.webp';
 export const CREDLY_URL: string = 'https://www.credly.com/users/kar-chun-tan';
 export const GITHUB_URL: string = 'https://github.com/KarChunT/karchunt.com';
 export const LINKEDIN_URL: string = 'https://www.linkedin.com/in/karchuntan';
 export const JOB_POSITION: string = 'Senior IT Engineer';
 export const JOB_COMPANY: string = 'AMD';
-export const NAME: string = 'Kar Chun Tan';
+export const NAME: string = 'Mas Dar Blog';
 export const PERSONAL_IMAGE: string = '/personal/karchunt.webp';
 export const CHANNELS = {
   github: {
