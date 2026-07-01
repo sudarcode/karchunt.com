@@ -4,11 +4,11 @@ export function createMetadata(override: Metadata): Metadata {
   return {
     ...override,
     openGraph: {
-      title: override.title ?? 'KarChunT',
-      description: override.description ?? "KarChunT's personal website",
+      title: override.title ?? 'Kangsudar',
+      description: override.description ?? "Kangsudar's personal website",
       url: 'https://karchunt.com',
       images: '/penguin-nobg.png',
-      siteName: 'KarChunT',
+      siteName: 'KangSudar',
       ...override.openGraph,
     },
     // twitter: {
