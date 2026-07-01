@@ -11,7 +11,7 @@ import { Banner } from 'fumadocs-ui/components/banner';
 export const metadata: Metadata = createMetadata({
   title: {
     template: '%s | Mas Dar',
-    default: 'Masdar',
+    default: 'Blog Kang Sudar',
   },
   description: "Mas Dar's personal website",
   metadataBase: new URL('https://sudar.web.id'),
